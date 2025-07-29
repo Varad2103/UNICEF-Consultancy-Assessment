@@ -28,3 +28,9 @@ This repository contains an end-to-end workflow for evaluating maternal and newb
 Track_Status                             
 Off-track         71.006587     87.399835
 On-track          62.829343     82.245623
+
+The bar plot in the html report compares the weighted coverage of ANC4 and SBA indicators between on-track and off-track countries. 
+On-track countries show slightly lower coverage than off-track countries for both indicators, possibly reflecting 
+that countries initially off-track may have received more focused intervention efforts. However, this interpretation 
+assumes accurate and consistent reporting of coverage and projected birth data. Any gaps in data quality or completeness 
+may affect the reliability of the comparison.
